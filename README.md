@@ -3,7 +3,7 @@
 ### Technical Stack & Expertise
 Application Security: OWASP Top-10, White-box Code Review, custom Semgrep rules;
 
-DevSecOps: Docker Hardening (Read-Only FS, tmpfs);
+DevSecOps: Docker Hardening (Read-Only FS, tmpfs), SAST, CI/CD;
 
 SAST, Infrastructure & OS: Linux Kernel Hardening (sysctl), Network Security (iptables, Fail2Ban).
 
